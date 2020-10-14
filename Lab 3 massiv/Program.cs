@@ -23,6 +23,7 @@ namespace Lab_3_massiv
             {
                 Console.WriteLine(myArray[i]);
             }
+            Console.WriteLine("GitHub");
             Console.ReadLine();
         }
     }
